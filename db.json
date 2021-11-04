@@ -1,16 +1,16 @@
 {
-  "posts":[
+  "products": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "productName": "tomato",
+      "productDescription": "best tomato",
+      "productPrice": "1.22",
+      "id": 4
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "productName": "mango",
+      "productDescription": "sweetest mango",
+      "productPrice": "2.99",
+      "id": 6
     }
   ]
 }
